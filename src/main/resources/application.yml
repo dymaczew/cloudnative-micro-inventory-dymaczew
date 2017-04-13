@@ -18,7 +18,7 @@ spring:
   # MySQL Data source configuration
   datasource:
     driverClassName: com.mysql.jdbc.Driver
-    url: jdbc:mysql://172.29.0.2/inventorydb
+    url: jdbc:mysql://169.46.25.43/inventorydb
     username: dbuser
     password: Pass4dbUs3R
     port: 3306
