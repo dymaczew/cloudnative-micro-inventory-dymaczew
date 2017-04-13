@@ -18,13 +18,9 @@ spring:
   # MySQL Data source configuration
   datasource:
     driverClassName: com.mysql.jdbc.Driver
-    url: jdbc:mysql://169.46.17.190/inventorydb
+    url: jdbc:mysql://172.29.0.2/inventorydb
     username: dbuser
-<<<<<<< HEAD
-    password: passw0rd
-=======
     password: Pass4dbUs3R
->>>>>>> 5a9e966c86901f13bdb53693a64cee3e01754cd4
     port: 3306
     max-active: 4
     testOnBorrow: true
